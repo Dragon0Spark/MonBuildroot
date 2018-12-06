@@ -2193,4 +2193,7 @@ menu "Text editors and viewers"
 	source "package/vim/Config.in"
 endmenu
 
+menu "Custom packages"
+source "package/chronium/Config.in"
+endmenu
 endmenu
